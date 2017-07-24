@@ -49,15 +49,27 @@
 					<li class="type-1"><a href="services.php">our services<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="plane.html">custom tours<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="services.php">our services<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="#">packages<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="plane.html">destinations<span class="fa fa-angle-down"></span></a>
+						
+					</li>
+					<li class="type-1"><a href="plane.html">custom packages<span class="fa fa-angle-down"></span></a>
+						
+					</li>
+					<li class="type-1"><a href="#">tour packages<span class="fa fa-angle-down"></span></a>
 						<ul class="dropmenu">
 							<li><a href="royal_rajasthan.html">Royal Rajasthan</a></li>
 							<li><a href="delhi_agra_delhi.html">Agra Delhi Agra</a></li>
 							<li><a href="delhi_agra_jaipur_delhi.html">Agra Delhi Jaipur Agra</a></li>	
 						</ul>
+						
+					</li>
+					<li class="type-1"><a href="plane.html">quick facts<span class="fa fa-angle-down"></span></a>
+						
+					</li>
+					<li class="type-1"><a href="plane.html">book now<span class="fa fa-angle-down"></span></a>
 						
 					</li>
 					<li class="type-1"><a href="prices.html">price<span class="fa fa-angle-down"></span></a>
