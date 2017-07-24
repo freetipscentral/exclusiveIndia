@@ -1,60 +1,6 @@
 <?php include 'header.php';?>
 
 <!-- MAP BLOCK -->
-<div class="map-block">
-	<div id="map-canvas" class="style-4" data-lat="33.664467" data-lng="-117.601586" data-zoom="10" data-style="2"></div>
-    <div class="addresses-block">
-        <a data-lat="33.664467" data-lng="-117.601586" data-string="Santa Monica Hotel"></a>
-    </div>
-</div>
-
-<div class="main-wraper">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-12 col-sm-8 col-sm-offset-2">
-				<div class="second-title">
-					<h4 class="subtitle color-dr-blue-2 underline">contact info</h4>
-					<h2>get in touch</h2>
-				</div>
-			</div>
-		</div>
-		<div class="contact-row">
-			<div class="row">
-				<div class="col-xs-12 col-sm-4">
-					<div class="contact-entry">
-						<img class="contact-icon" src="img/loc_icon_2_dark.png" alt="">
-						<div class="contact-label color-grey-3">Address:</div>
-						<div class="contact-text color-dark-2">Aenean vulputate porttitor</div>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-4">
-					<div class="contact-entry">
-						<img class="contact-icon" src="img/mail_icon_l_dark.png" alt="">
-						<div class="contact-label color-grey-3">Email us:</div>
-						<a class="contact-text color-dark-2 link-dr-blue-2" href="mailto:let’s_travel@world.com">let’s_travel@world.com</a>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-4">
-					<div class="contact-entry">
-						<img class="contact-icon" src="img/phone_icon_3_dark.png" alt="">
-						<div class="contact-label color-grey-3">Phone:</div>
-						<a class="contact-text color-dark-2 link-dr-blue-2" href="tel:">+93 123 456 789</a>
-					</div>
-				</div>						
-			</div>
-		</div>
-		<div class="share style-2 clearfix">
-			<ul>
-		      	<li class="color-in"><a href=""><i class="fa fa-linkedin"></i>linkedin<span class="color-in-2">19</span></a></li>			
-		      	<li class="color-fb"><a href=""><i class="fa fa-facebook"></i>facebook<span class="color-fb-2">12</span></a></li>
-		      	<li class="color-tw"><a href=""><i class="fa fa-twitter"></i>twitter<span class="color-tw-2">27</span></a></li>
-		      	<li class="color-gg"><a href=""><i class="fa fa-google-plus"></i>google +<span class="color-gg-2">51</span></a></li>
-		      	<li class="color-pin"><a href=""><i class="fa fa-pinterest"></i>pinterest<span class="color-pin-2">70</span></a></li>
-	      	</ul>						
-		</div>
-	</div>
-</div>	
-
 
 <!-- CONTACT-FORM -->
 <div class="main-wraper padd-90">
