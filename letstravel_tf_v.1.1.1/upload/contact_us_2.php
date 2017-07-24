@@ -78,30 +78,29 @@
 					<div class="row">
 						<div class="col-xs-12 col-sm-6">
 							<div class="input-style-1 type-2 color-2">
-							  	<input type="text" required="" placeholder="Enter your name">
+							  	<input type="text" required="" placeholder="Enter your name" name="customerName">
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6">
 							<div class="input-style-1 type-2 color-2">
-							  	<input type="text" required="" placeholder="Enter your email">
+							  	<input type="email" required="" placeholder="Enter your email" name="emailId">
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6">
 							<div class="input-style-1 type-2 color-2">
-							  	<input type="text" required="" placeholder="Enter your name">
+							  	<input type="number" min="0" required="" placeholder="number of people" name="numberOfPeople">
 							</div>
 						</div>	
 						<div class="col-xs-12 col-sm-6">
 							<div class="drop-wrap drop-wrap-s-3 color-2">
 							  	<div class="drop">
-								 	<b>Department</b>
+								 	<b>region</b>
 									<a href="#" class="drop-list"><i class="fa fa-angle-down"></i></a>
 									<span>
-									    <a href="#">01 kids</a>
-										<a href="#">02 kids</a>
-										<a href="#">03 kids</a>
-										<a href="#">04 kids</a>
-										<a href="#">05 kids</a>
+									    <a href="#">northern india</a>
+										<a href="#">southern india</a>
+										<a href="#">eatern india</a>
+										<a href="#">western india</a>										
 									</span>
 							   	</div>
 							</div>						

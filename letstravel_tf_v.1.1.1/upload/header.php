@@ -55,7 +55,7 @@
 					<li class="type-1"><a href="plane.html">destinations<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="plane.html">custom packages<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="contact_us_2">custom packages<span class="fa fa-angle-down"></span></a>
 						
 					</li>
 					<li class="type-1"><a href="#">tour packages<span class="fa fa-angle-down"></span></a>
