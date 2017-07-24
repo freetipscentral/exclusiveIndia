@@ -48,10 +48,7 @@
 					</li>
 					<li class="type-1"><a href="services.php">our services<span class="fa fa-angle-down"></span></a>
 						
-					</li>
-					<li class="type-1"><a href="services.php">our services<span class="fa fa-angle-down"></span></a>
-						
-					</li>
+					</li>					
 					<li class="type-1"><a href="plane.html">destinations<span class="fa fa-angle-down"></span></a>
 						
 					</li>

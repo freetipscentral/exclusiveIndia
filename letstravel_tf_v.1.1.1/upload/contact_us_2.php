@@ -69,7 +69,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-				<div class="second-description text-center color-grey-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</div>			
+				<div class="second-description text-center color-grey-3">Please fill out the following information so that we can help you to have a great trip.</div>			
 			</div>
 		</div>
 		<div class="row">
@@ -92,6 +92,16 @@
 							</div>
 						</div>	
 						<div class="col-xs-12 col-sm-6">
+							<div class="input-style-1 type-2 color-2">
+							  	<input type="text" required="" placeholder="your country" name="country">
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-6">
+							<div class="input-style-1 type-2 color-2">
+							  	<input type="text" required="" placeholder="phone number" name="phone">
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-6">
 							<div class="drop-wrap drop-wrap-s-3 color-2">
 							  	<div class="drop">
 								 	<b>region</b>
@@ -99,8 +109,35 @@
 									<span>
 									    <a href="#">northern india</a>
 										<a href="#">southern india</a>
-										<a href="#">eatern india</a>
-										<a href="#">western india</a>										
+										<a href="#">eastern india</a>
+										<a href="#">western india</a>
+									</span>
+							   	</div>
+							</div>						
+						</div>
+						<div class="col-xs-12 col-sm-6">
+							<div class="drop-wrap drop-wrap-s-3 color-2">
+							  	<div class="drop">
+								 	<b>destinations you are interested in</b>
+									<a href="#" class="drop-list"><i class="fa fa-angle-down"></i></a>
+									<span>
+									    <a href="#">agra</a>
+										<a href="#">delhi</a>
+										<a href="#">jaipur</a>
+										<a href="#">jodhpur</a>
+									</span>
+							   	</div>
+							</div>						
+						</div>
+						<div class="col-xs-12 col-sm-6">
+							<div class="drop-wrap drop-wrap-s-3 color-2">
+							  	<div class="drop">
+								 	<b>type of trip</b>
+									<a href="#" class="drop-list"><i class="fa fa-angle-down"></i></a>
+									<span>
+									    <a href="#">family</a>
+										<a href="#">business</a>
+										<a href="#">special event</a>
 									</span>
 							   	</div>
 							</div>						
