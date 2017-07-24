@@ -69,9 +69,7 @@
 					<li class="type-1"><a href="plane.html">book now<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="prices.html">price<span class="fa fa-angle-down"></span></a>
-						
-					</li>
+					
 					<li class="type-1"><a href="gallery.php">gallery<span class="fa fa-angle-down"></span></a>
 						
 					</li>
