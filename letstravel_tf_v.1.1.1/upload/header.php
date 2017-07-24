@@ -43,7 +43,7 @@
    	  	 	<nav class="menu">
 			  	<ul>
 					<li class="type-1 active">
-						<a href="index.html">home<span class="fa fa-angle-down"></span></a>
+						<a href="index.php">home<span class="fa fa-angle-down"></span></a>
 						
 					</li>
 					<li class="type-1"><a href="services.php">our services<span class="fa fa-angle-down"></span></a>
@@ -52,7 +52,7 @@
 					<li class="type-1"><a href="plane.html">destinations<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="contact_us_2">custom packages<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="contact_us_2.php">custom packages<span class="fa fa-angle-down"></span></a>
 						
 					</li>
 					<li class="type-1"><a href="#">tour packages<span class="fa fa-angle-down"></span></a>
