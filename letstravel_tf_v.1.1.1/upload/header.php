@@ -10,14 +10,17 @@
 		<link href="css/jquery-ui.structure.min.css" rel="stylesheet" type="text/css"/>
 		<link href="css/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
 		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">        
-		<link href="css/style.css" rel="stylesheet" type="text/css"/>     
-		<title>Let's Travel</title>
+		<link href="css/style.css" rel="stylesheet" type="text/css"/>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/js/bootstrap-multiselect.min.js"></script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/css/bootstrap-multiselect.css"></link>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	  	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-3-typeahead/4.0.2/bootstrap3-typeahead.min.js"></script>  
+	  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+	  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		     
+		<title>Exclusive India Travel</title>
 	</head>
 <body data-color="theme-1">
- 
-     
-       
-	 
   <div class="loading">
 	<div class="loading-center">
 		<div class="loading-center-absolute">

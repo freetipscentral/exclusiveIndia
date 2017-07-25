@@ -9,7 +9,7 @@
 			<div class="col-xs-12 col-sm-8 col-sm-offset-2">
 				<div class="second-title">
 					<h4 class="subtitle color-dr-blue-2 underline">contact form</h4>
-					<h2>have a question?</h2>
+					<h2>Want a Customized Package</h2>
 				</div>
 			</div>
 		</div>
@@ -46,35 +46,7 @@
 							<div class="input-style-1 type-2 color-2">
 							  	<input type="text" required="" placeholder="phone number" name="phone">
 							</div>
-						</div>
-						<div class="col-xs-12 col-sm-6">
-							<div class="drop-wrap drop-wrap-s-3 color-2">
-							  	<div class="drop">
-								 	<b>region</b>
-									<a href="#" class="drop-list"><i class="fa fa-angle-down"></i></a>
-									<span>
-									    <a href="#">northern india</a>
-										<a href="#">southern india</a>
-										<a href="#">eastern india</a>
-										<a href="#">western india</a>
-									</span>
-							   	</div>
-							</div>						
-						</div>
-						<div class="col-xs-12 col-sm-6">
-							<div class="drop-wrap drop-wrap-s-3 color-2">
-							  	<div class="drop">
-								 	<b>destinations you are interested in</b>
-									<a href="#" class="drop-list"><i class="fa fa-angle-down"></i></a>
-									<span>
-									    <a href="#">agra</a>
-										<a href="#">delhi</a>
-										<a href="#">jaipur</a>
-										<a href="#">jodhpur</a>
-									</span>
-							   	</div>
-							</div>						
-						</div>
+						</div>																		
 						<div class="col-xs-12 col-sm-6">
 							<div class="drop-wrap drop-wrap-s-3 color-2">
 							  	<div class="drop">
@@ -89,9 +61,9 @@
 							</div>						
 						</div>
 						<div class="col-xs-12">
-							<textarea class="area-style-1 color-1" required="" placeholder="Enter your comment"></textarea>
+							<textarea class="area-style-1 color-1" name="requirements" required="" placeholder="Enter your requirements here"></textarea>
 							<div class="text-center">
-								<button type="submit" class="c-button bg-dr-blue-2 hv-dr-blue-2-o"><span>submit comment</span></button>
+								<button type="submit" class="c-button bg-dr-blue-2 hv-dr-blue-2-o"><span>submit this information</span></button>
 							</div>
 						</div>
 					</div>					
@@ -100,6 +72,37 @@
 		</div>
 	</div>
 </div>
+
+<script>
+$(document).ready(function(){
+ $('#framework').multiselect({
+  nonSelectedText: 'Select Framework',
+  enableFiltering: true,
+  enableCaseInsensitiveFiltering: true,
+  buttonWidth:'400px'
+ });
+ 
+ $('#framework_form').on('submit', function(event){
+  event.preventDefault();
+  var form_data = $(this).serialize();
+  $.ajax({
+   url:"insert.php",
+   method:"POST",
+   data:form_data,
+   success:function(data)
+   {
+    $('#framework option:selected').each(function(){
+     $(this).prop('selected', false);
+    });
+    $('#framework').multiselect('refresh');
+    alert(data);
+   }
+  });
+ });
+ 
+ 
+});
+</script>
 
 <!-- FOOTER -->       
 <?php include 'footer.php';?>		   
