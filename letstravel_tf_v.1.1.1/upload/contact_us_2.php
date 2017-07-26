@@ -9,7 +9,7 @@
 			<div class="col-xs-12 col-sm-8 col-sm-offset-2">
 				<div class="second-title">
 					<h4 class="subtitle color-dr-blue-2 underline">contact form</h4>
-					<h2>Want a Customized Package</h2>
+					<h2>Want a Customized Package?</h2>
 				</div>
 			</div>
 		</div>
@@ -20,7 +20,7 @@
 		</div>
 		<div class="row">
 			<div class="col-xs-12">
-				<form class="contact-form" action="#">
+				<form class="contact-form" action="custom_package_send.php" method="post">
 					<div class="row">
 						<div class="col-xs-12 col-sm-6">
 							<div class="input-style-1 type-2 color-2">
@@ -63,7 +63,7 @@
 						<div class="col-xs-12">
 							<textarea class="area-style-1 color-1" name="requirements" required="" placeholder="Enter your requirements here"></textarea>
 							<div class="text-center">
-								<button type="submit" class="c-button bg-dr-blue-2 hv-dr-blue-2-o"><span>submit this information</span></button>
+								<button type="submit" name="submit" class="c-button bg-dr-blue-2 hv-dr-blue-2-o"><span>submit this information</span></button>
 							</div>
 						</div>
 					</div>					
