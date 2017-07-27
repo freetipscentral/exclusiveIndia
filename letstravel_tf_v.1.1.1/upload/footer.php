@@ -25,7 +25,7 @@
 														<i class="fa fa-phone"></i><a href="tel:91987088698">+91 987 088 698</a>
 												</div>
 												<div class="contact-line color-grey-3">
-														<i class="fa fa-envelope-o"></i><a href="mailto:">empty@exclusiveindiatravel.com</a>
+														<i class="fa fa-envelope-o"></i><a href="mailto:">sales@exclusivetravelindia.com</a>
 												</div>					
 											</div>
 				   				</div> 
