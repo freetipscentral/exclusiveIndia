@@ -32,13 +32,13 @@
 	</div>
   </div>
   
-  <header class="color-1 hovered menu-3">
+    <header class="color-1 hovered menu-3">
    <div class="container">
    	  <div class="row">
    	  	 <div class="col-md-12">
   	  	    <div class="nav"> 
-   	  	    <a href="index.php" class="logo">
-   	  	    	<img src="img/theme-1/main_travel_logo.png" alt="lets travel">
+   	  	    <a href="index.html" class="logo">
+   	  	    	<img src="img/fzGall/exclusive.png" alt="lets travel">
    	  	    </a>
    	  	    <div class="nav-menu-icon">
 		      <a href="#"><i></i></a>
@@ -46,19 +46,16 @@
    	  	 	<nav class="menu">
 			  	<ul>
 					<li class="type-1 active">
-						<a href="index.php">home<span class="fa fa-angle-down"></span></a>
+						<a href="index.html">home<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="services.php">our services<span class="fa fa-angle-down"></span></a>
-						
-					</li>					
-					<li class="type-1"><a href="plane.html">destinations<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="services.html">our services<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="contact_us_2.php">custom packages<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="plane.html">custom tours<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="#">tour packages<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="#">packages<span class="fa fa-angle-down"></span></a>
 						<ul class="dropmenu">
 							<li><a href="royal_rajasthan.html">Royal Rajasthan</a></li>
 							<li><a href="delhi_agra_delhi.html">Agra Delhi Agra</a></li>
@@ -66,14 +63,10 @@
 						</ul>
 						
 					</li>
-					<li class="type-1"><a href="plane.html">quick facts<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="prices.html">price<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="plane.html">book now<span class="fa fa-angle-down"></span></a>
-						
-					</li>
-					
-					<li class="type-1"><a href="gallery.php">gallery<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="gallery.html">gallery<span class="fa fa-angle-down"></span></a>
 						
 					</li>
 
