@@ -321,7 +321,7 @@
     	</div>
     </div> 
        
-    <div class="main-wraper">
+  <!--  <div class="main-wraper">
     	  <div class="clip">
 			 <div class="bg bg-bg-chrome" style="background-image:url(img/ranthambore/tigers-ranthambhore.jpg)">
 			 </div>
@@ -411,7 +411,7 @@
 			 </div>
 			 <div class="pagination poin-style-1"></div>
 		  </div>
-    </div>
+    </div>-->
        
     <div class="main-wraper">
     	<div class="container">
