@@ -32,10 +32,10 @@
 	</div>
   </div>
   
-    <header class="color-1 hovered menu-3">
+  <header class="color-1 hovered menu-3">
    <div class="container">
    	  <div class="row">
-   	  	 <div class="col-md-12">
+   	  	 <div class="col-md-16">
   	  	    <div class="nav"> 
    	  	    <a href="index.html" class="logo">
    	  	    	<img src="img/fzGall/exclusive.png" alt="lets travel">
@@ -49,13 +49,14 @@
 						<a href="index.html">home<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="services.html">our services<span class="fa fa-angle-down"></span></a>
+					
+					</li>
+					<li class="type-1"><a href="destinations.html">Destinations<span class="fa fa-angle-down"></span></a>
+						
+					<li class="type-1"><a href="plane.html">custom packages<span class="fa fa-angle-down"></span></a>
 						
 					</li>
-					<li class="type-1"><a href="plane.html">custom tours<span class="fa fa-angle-down"></span></a>
-						
-					</li>
-					<li class="type-1"><a href="#">packages<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="#">Tour Packages<span class="fa fa-angle-down"></span></a>
 						<ul class="dropmenu">
 							<li><a href="royal_rajasthan.html">Royal Rajasthan</a></li>
 							<li><a href="delhi_agra_delhi.html">Agra Delhi Agra</a></li>
@@ -63,17 +64,23 @@
 						</ul>
 						
 					</li>
-					<li class="type-1"><a href="prices.html">price<span class="fa fa-angle-down"></span></a>
-						
-					</li>
-					<li class="type-1"><a href="gallery.html">gallery<span class="fa fa-angle-down"></span></a>
-						
-					</li>
 
-
-					<li class="type-1"><a href="contact_us.html">Contact Us<span class="fa fa-angle-down"></span></a>
+					<li class="type-1"><a href="#">About<span class="fa fa-angle-down"></span></a>
+						<ul class="dropmenu">
+							<li><a href="services.html">our services</a></li>
+							<li><a href="testimonials.html">Testimonials</a></li>
+							<li><a href="gallery.html">gallery</a></li>	
+							<li><a href="contact_us.html">Contact Us</a></li>
+							<li><a href="faq.html">FAQ</a></li>
+							<li><a href="quickFacts.html">Quick Facts</a></li>
+						</ul>
 						
 					</li>
+           
+           <li class="type-1"><a href="bookNow.html">Book Now<span class="fa fa-angle-down"></span></a>
+						
+					</li>
+					
                     
 			  	</ul>
 		   </nav>
@@ -82,3 +89,4 @@
    	  </div>
    </div>
   </header>
+  

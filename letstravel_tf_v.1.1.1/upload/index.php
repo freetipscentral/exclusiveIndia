@@ -101,7 +101,7 @@
     		<div class="row">
     			<div class="col-md-12">
     				<div class="second-title">
-    					<h2>The Heritage Of India Tours</h2>
+    					<h2>The Sample India Tours</h2>
     					  <!--<p class="color-grey">Curabitur nunc erat, consequat in erat ut, congue bibendum nulla. Suspendisse id tor.</p>-->
     				</div>
     			</div>
